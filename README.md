@@ -1,6 +1,6 @@
 # FAKE NEWS DETECTION USING NLP AND MACHINE LEARNING MODELS
 > In this information age, there is lot of room for misinformation to spread fast than credible information. To inform users of whether the information is fake or not has become a great importance. This project deploys Natural Language Processing (NLP) techniques for pre processing fake news articles. Then a machine learning model been developed to detect fake news.
-![Word Cloud of dataset] (https://github.com/KuntamukkalaPavanKumar/code_clause_fake_news_detection/blob/main/wordcloudfakenews.png)
+![Word_Cloud](https://github.com/KuntamukkalaPavanKumar/code_clause_fake_news_detection/blob/main/wordcloudfakenews.png)
 
 
 ## Table of Contents
